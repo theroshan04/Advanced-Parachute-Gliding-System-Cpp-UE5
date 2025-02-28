@@ -20,7 +20,7 @@ This project implements an **advanced parachute gliding system** in **Unreal Eng
 ## 📂 Installation & Setup
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/your-username/UE5-Parachute-Gliding-System.git
+git clone https: https://github.com/theroshan04/Advanced-Parachute-Gliding-System-Cpp-UE5
 ```
 ### 2️⃣ Open in Unreal Engine
 1. Open **Unreal Engine 5.4**.
