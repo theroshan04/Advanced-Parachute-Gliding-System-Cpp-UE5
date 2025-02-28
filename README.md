@@ -33,7 +33,7 @@ git clone https: https://github.com/theroshan04/Advanced-Parachute-Gliding-Syste
 3. Press **Play** to test the parachute system.
 
 ## 🎥 Demo
-Watch the system in action: **https://www.linkedin.com/posts/theroshan04_unrealengine-gamedevelopment-cplusplus-activity-7301109730842669056-jblV?utm_source=share&utm_medium=member_desktop&rcm=ACoAAC4qZgABd5J9PIhgjoEMRbCsNO3MQYCwIm8**  
+Watch the system in action: **[Demo Video link](https://www.linkedin.com/posts/theroshan04_unrealengine-gamedevelopment-cplusplus-activity-7301109730842669056-jblV?utm_source=share&utm_medium=member_desktop&rcm=ACoAAC4qZgABd5J9PIhgjoEMRbCsNO3MQYCwIm8)**  
 
 ## ⚠️ Usage Restrictions
 🛑 **All assets included in this repository are for educational purposes only.** You may use them for learning, research, and personal projects, but redistribution or commercial use is **not permitted**.
