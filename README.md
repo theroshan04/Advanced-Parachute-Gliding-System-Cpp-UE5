@@ -42,7 +42,7 @@ Watch the system in action: **[Demo Video link](https://www.linkedin.com/posts/t
 Contributions are welcome! Feel free to **open an issue** or submit a **pull request**.
 
 ## 📞 Contact & Support
-For inquiries, reach out via **[LinkedIn](www.linkedin.com/in/theroshan04)** or **GitHub Issues**.
+For inquiries, reach out via **www.linkedin.com/in/theroshan04** or **GitHub Issues**.
 
 ---
 
