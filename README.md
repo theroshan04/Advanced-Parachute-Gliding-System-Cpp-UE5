@@ -19,7 +19,7 @@ This project implements an **advanced parachute gliding system** in **Unreal Eng
 
 ## 📂 Installation & Setup
 ### 1️⃣ Clone the Repository
-Note - Don't Just Download Zip file, it will exclude all assets.
+Note - Don't Just Download Zip file, it will exclude all assets(LFS Integrated).
 ```bash
 git clone https: https://github.com/theroshan04/Advanced-Parachute-Gliding-System-Cpp-UE5
 ```
